@@ -1,0 +1,92 @@
+{
+  "burgerImg.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "img4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "breakfast.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mainDish.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Pancakes.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "ClassicFries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "IceCream.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "ChickenBurger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Egg Toast.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "Soda.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "BigBuger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "larrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "2040260.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "knife.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "3burgers.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burgcoke.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "saFries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "avatar1.png": {
+    "mime": "image/png"
+  },
+  "avatar2.png": {
+    "mime": "image/png"
+  },
+  "avatar3.png": {
+    "mime": "image/png"
+  }
+}
